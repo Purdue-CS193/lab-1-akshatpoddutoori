@@ -1,4 +1,14 @@
+#Akshat Poddutoori's first CS193 Lab
+
+
+
 ## Welcome to GitHub Pages
+
+Things I like about CS193
+
+- Only is 1 hour a week
+- We learn fundamental concepts that we need to be a computer science major
+- This class is easier than most classes
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,8 +21,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-#Akshat Poddutoori's first CS193 Lab
-
 # Header 1
 ## Header 2
 ### Header 3
@@ -23,11 +31,6 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-Things I like about CS193
-
-- Only is 1 hour a week
-- We learn fundamental concepts that we need to be a computer science major
-- This class is easier than most classes
 
 **Bold** and _Italic_ and `Code` text
 
