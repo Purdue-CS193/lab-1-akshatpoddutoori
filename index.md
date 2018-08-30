@@ -23,11 +23,11 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
--Things I like about CS193
+Things I like about CS193
 
-1. Only is 1 hour a week
-2. We learn fundamental concepts that we need to be a computer science major
-3. This class is easier than most classes
+- Only is 1 hour a week
+- We learn fundamental concepts that we need to be a computer science major
+- This class is easier than most classes
 
 **Bold** and _Italic_ and `Code` text
 
