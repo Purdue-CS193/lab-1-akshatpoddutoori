@@ -1,14 +1,13 @@
-#Akshat Poddutoori's first CS193 Lab
-
-
-
-## Welcome to GitHub Pages
+# Akshat Poddutoori's first CS193 Lab
 
 Things I like about CS193
 
 - Only is 1 hour a week
 - We learn fundamental concepts that we need to be a computer science major
 - This class is easier than most classes
+
+
+## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
